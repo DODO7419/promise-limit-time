@@ -1,0 +1,6 @@
+{
+    "compact": false,
+    "presets": [
+        "env"
+    ],
+}

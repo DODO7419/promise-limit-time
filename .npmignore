@@ -1,0 +1,8 @@
+# 忽略目录
+vue-test
+node_modules
+src
+# 忽略指定文件
+yarn.lock
+yarn.lock
+yarn-error.log
