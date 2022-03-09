@@ -1,6 +1,6 @@
 {
   "name": "promise-limit-time",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Limit Promise.all concurrency",
   "keywords": [
     "Promise",
@@ -14,7 +14,8 @@
     "test": "babel-node --presets env test.js"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/DODO7419/promise-limit-time"
   },
   "author": "lwq",
   "license": "ISC",
